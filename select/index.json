@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Shining Star",
+  "base_artist": "POPPiNG EMO",
+  "createdAt": "2026-02-13T03:33:20.443776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shining Star (Makin' My Love)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_Shining_Star_(Makin'_My_Love)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/02_Shining_Star_INXS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/03_Shining_Star_INXS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "Stryper",
+      "has_synced": false,
+      "path": "select/04_Shining_Star_Stryper.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/05_Shining_Star_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shining Star - Future Star",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": false,
+      "path": "select/06_Shining_Star_-_Future_Star_Earth,_Wind_&_Fire.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/07_Shining_Star_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shining Star (Making My Love)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_Shining_Star_(Making_My_Love)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/09_Shining_Star_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "Backstreet Boys",
+      "has_synced": false,
+      "path": "select/10_Shining_Star_Backstreet_Boys.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shining Star (12\" Mix) [2018 Remastered Version]",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/11_Shining_Star_(12__Mix)_[2018_Remastered_Version]_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shining Star (makin' my love)",
+      "artist": "David Bowie s",
+      "has_synced": true,
+      "path": "select/12_Shining_Star_(makin'_my_love)_David_Bowie_s.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/13_Shining_Star_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "The Manhattans",
+      "has_synced": false,
+      "path": "select/14_Shining_Star_The_Manhattans.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/15_Shining_Star_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shining Star",
+      "artist": "The Manhattans",
+      "has_synced": false,
+      "path": "select/16_Shining_Star_The_Manhattans.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shining Star",
+      "artist": "POPPiNG EMO",
+      "has_synced": false,
+      "path": "select/pl_01_Shining_Star_POPPiNG_EMO.txt"
+    }
+  ]
+}
